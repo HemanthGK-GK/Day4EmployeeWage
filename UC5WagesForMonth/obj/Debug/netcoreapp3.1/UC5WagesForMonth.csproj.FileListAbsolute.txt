@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC5WagesForMonth\bin\Debug\netcoreapp3.1\UC5WagesForMonth.exe
+C:\Users\91807\Desktop\Batch67\UC5WagesForMonth\bin\Debug\netcoreapp3.1\UC5WagesForMonth.deps.json
+C:\Users\91807\Desktop\Batch67\UC5WagesForMonth\bin\Debug\netcoreapp3.1\UC5WagesForMonth.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC5WagesForMonth\bin\Debug\netcoreapp3.1\UC5WagesForMonth.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC5WagesForMonth\bin\Debug\netcoreapp3.1\UC5WagesForMonth.dll
+C:\Users\91807\Desktop\Batch67\UC5WagesForMonth\bin\Debug\netcoreapp3.1\UC5WagesForMonth.pdb
+C:\Users\91807\Desktop\Batch67\UC5WagesForMonth\obj\Debug\netcoreapp3.1\UC5WagesForMonth.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC5WagesForMonth\obj\Debug\netcoreapp3.1\UC5WagesForMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC5WagesForMonth\obj\Debug\netcoreapp3.1\UC5WagesForMonth.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC5WagesForMonth\obj\Debug\netcoreapp3.1\UC5WagesForMonth.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC5WagesForMonth\obj\Debug\netcoreapp3.1\UC5WagesForMonth.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC5WagesForMonth\obj\Debug\netcoreapp3.1\UC5WagesForMonth.dll
+C:\Users\91807\Desktop\Batch67\UC5WagesForMonth\obj\Debug\netcoreapp3.1\UC5WagesForMonth.pdb
+C:\Users\91807\Desktop\Batch67\UC5WagesForMonth\obj\Debug\netcoreapp3.1\UC5WagesForMonth.genruntimeconfig.cache

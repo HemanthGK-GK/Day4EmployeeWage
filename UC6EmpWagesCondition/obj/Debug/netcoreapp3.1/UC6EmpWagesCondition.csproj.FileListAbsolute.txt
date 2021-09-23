@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC6EmpWagesCondition\bin\Debug\netcoreapp3.1\UC6EmpWagesCondition.exe
+C:\Users\91807\Desktop\Batch67\UC6EmpWagesCondition\bin\Debug\netcoreapp3.1\UC6EmpWagesCondition.deps.json
+C:\Users\91807\Desktop\Batch67\UC6EmpWagesCondition\bin\Debug\netcoreapp3.1\UC6EmpWagesCondition.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC6EmpWagesCondition\bin\Debug\netcoreapp3.1\UC6EmpWagesCondition.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC6EmpWagesCondition\bin\Debug\netcoreapp3.1\UC6EmpWagesCondition.dll
+C:\Users\91807\Desktop\Batch67\UC6EmpWagesCondition\bin\Debug\netcoreapp3.1\UC6EmpWagesCondition.pdb
+C:\Users\91807\Desktop\Batch67\UC6EmpWagesCondition\obj\Debug\netcoreapp3.1\UC6EmpWagesCondition.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC6EmpWagesCondition\obj\Debug\netcoreapp3.1\UC6EmpWagesCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC6EmpWagesCondition\obj\Debug\netcoreapp3.1\UC6EmpWagesCondition.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC6EmpWagesCondition\obj\Debug\netcoreapp3.1\UC6EmpWagesCondition.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC6EmpWagesCondition\obj\Debug\netcoreapp3.1\UC6EmpWagesCondition.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC6EmpWagesCondition\obj\Debug\netcoreapp3.1\UC6EmpWagesCondition.dll
+C:\Users\91807\Desktop\Batch67\UC6EmpWagesCondition\obj\Debug\netcoreapp3.1\UC6EmpWagesCondition.pdb
+C:\Users\91807\Desktop\Batch67\UC6EmpWagesCondition\obj\Debug\netcoreapp3.1\UC6EmpWagesCondition.genruntimeconfig.cache
